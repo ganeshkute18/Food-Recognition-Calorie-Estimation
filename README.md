@@ -1,4 +1,4 @@
-📌 Project Overview
+Project Overview
 Food Recognition & Calorie Estimation using Deep Learning
 
 This project aims to develop a deep learning model that can accurately identify food items from images and estimate their calorie content. The system will help users track their dietary intake, enabling healthier eating habits and informed food choices.
